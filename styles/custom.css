@@ -1,0 +1,44 @@
+:root {
+  --onboard-white: #E3C37A;
+  --onboard-primary-100: #E3C37A;
+  --onboard-success-100: #E3C37A;
+  --onboard-gray-100: #E3C37A;
+  --onboard-wallet-columns: 1;
+  --onboard-connect-sidebar-background: #212121;
+  --onboard-connect-sidebar-color: white;
+  --onboard-connect-header-background: #E3C37A;
+  --onboard-main-scroll-container-background: #1C1C1C;
+  --onboard-wallet-button-background: #212121;
+  --onboard-close-button-color: white;
+  --onboard-wallet-button-color: white;
+  --onboard-wallet-button-background-hover: #A57A29;
+  --onboard-wallet-button-border-color: #A57A29;
+  --onboard-connect-header-color: white;
+  --onboard-modal-z-index: 1201;
+  /* --onboard-connect-header-background: #A57A29;
+  --onboard-connect-sidebar-background: #1C1C1C;
+  --onboard-connect-sidebar-color: whtie;
+  --onboard-wallet-button-background-hover: #E3C37A;
+  --onboard-wallet-button-background: #212121;
+  --onboard-wallet-button-color: white;
+  --onboard-wallet-app-icon-border-color: #E3C37A; */
+  /* --onboard-connect-content-width
+  --onboard-connect-content-height
+  --onboard-wallet-columns
+  --onboard-connect-sidebar-background
+  --onboard-connect-sidebar-color
+  --onboard-connect-sidebar-progress-background
+  --onboard-connect-sidebar-progress-color
+  --onboard-connect-header-background
+  --onboard-connect-header-color
+  --onboard-link-color
+  --onboard-close-button-background
+  --onboard-close-button-color
+  --onboard-checkbox-background
+  --onboard-checkbox-color
+  --onboard-wallet-button-background
+  --onboard-wallet-button-background-hover
+  --onboard-wallet-button-color
+  --onboard-wallet-button-border-color
+  --onboard-wallet-app-icon-border-color */
+}
